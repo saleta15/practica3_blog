@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="H2 - practica5" uuid="834a74f8-d61f-4b40-b5ee-9bd2e2f8589c">
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>se</user-name>
+    </data-source>
+  </component>
+</project>

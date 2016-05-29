@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practica2CRUD.iml" filepath="$PROJECT_DIR$/.idea/modules/practica2CRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practica2CRUD_main.iml" filepath="$PROJECT_DIR$/.idea/modules/practica2CRUD_main.iml" group="practica2CRUD" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practica2CRUD_test.iml" filepath="$PROJECT_DIR$/.idea/modules/practica2CRUD_test.iml" group="practica2CRUD" />
+    </modules>
+  </component>
+</project>
